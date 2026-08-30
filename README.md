@@ -2,8 +2,6 @@
 
 A simple, dependency-free Python CLI tool that converts CSV files into JSON.
 
-No third-party libraries required — just Python's standard library.
-
 ## Features
 
 - ✅ Convert a single CSV file to JSON
